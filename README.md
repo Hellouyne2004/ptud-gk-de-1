@@ -32,6 +32,7 @@
 
 4. Chạy migrations để tạo cơ sở dữ liệu:
     ```sh
+    cd website
     python manage.py makemigrations
     python manage.py migrate
     ```
