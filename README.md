@@ -19,7 +19,7 @@
 
 2. Tạo và kích hoạt môi trường ảo:
     ```sh
-    python3 -m venv venv
+    python -m venv venv
     source venv/bin/activate  # Trên Linux/macOS
     # venv\Scripts\activate   # Trên Windows
     ```
