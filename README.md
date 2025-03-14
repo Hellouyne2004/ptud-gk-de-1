@@ -45,7 +45,7 @@
 ### Chạy server
 1. Chạy file fake data để hiện tạo dữ liệu và hình ảnh random:
     ```sh
-    python manage.py create_fake_data.py
+    python manage.py create_fake_data
     ```
     
 2. Chạy server:
