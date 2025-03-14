@@ -5,7 +5,7 @@
 - 
 ## Mô tả project
 Đây là một ứng dụng blog đơn giản được phát triển bằng Django với các chức năng chính :
-- Đăng Ký và Đăng Nhập
+- Đăng Ký và đăng Nhập
 - Quản lý bài viết
 - Quản lý bình luận
 - Tìm kiếm bài viết
