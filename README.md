@@ -14,7 +14,7 @@
 1. Clone repository về máy của bạn:
     ```sh
     git clone https://github.com/Hellouyne2004/ptud-gk-de-1.git
-    cd django-blog
+    cd ptud-gk-de-1
     ```
 
 2. Tạo và kích hoạt môi trường ảo:
