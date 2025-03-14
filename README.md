@@ -8,6 +8,7 @@
 ### Yêu cầu hệ thống
 - Python 3.9 trở lên
 - pip (Python package installer)
+- Virtual environment (venv)
 
 ### Cài đặt
 1. Clone repository về máy của bạn:
@@ -41,7 +42,7 @@
     ```
 
 ### Chạy server
-1. Chạy file fake data để hiện hình ảnh random:
+1. Chạy file fake data để hiện tạo dữ liệu và hình ảnh random:
     ```sh
     python manage.py create_fake_data.py
     ```
