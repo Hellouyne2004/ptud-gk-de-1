@@ -2,7 +2,7 @@
 
 ## Thông tin cá nhân
 - Nguyễn Thái Uy - 22656171
-- 
+  
 ## Mô tả project
 Đây là một ứng dụng blog đơn giản được phát triển bằng Django với các chức năng chính :
 - Đăng Ký và đăng Nhập
