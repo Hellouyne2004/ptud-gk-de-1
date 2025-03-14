@@ -41,12 +41,17 @@
     ```
 
 ### Chạy server
-1. Chạy server:
+1. Chạy file fake data để hiện hình ảnh random:
+    ```sh
+    python manage.py create_fake_data.py
+    ```
+    
+2. Chạy server:
     ```sh
     python manage.py runserver
     ```
 
-2. Truy cập ứng dụng tại địa chỉ:
+3. Truy cập ứng dụng tại địa chỉ:
     ```
     http://127.0.0.1:8000/
     ```
