@@ -12,7 +12,7 @@
 ### Cài đặt
 1. Clone repository về máy của bạn:
     ```sh
-    git clone https://github.com/truonglongty/tiny-app.git
+    git clone https://github.com/Hellouyne2004/ptud-gk-de-1.git
     cd django-blog
     ```
 
